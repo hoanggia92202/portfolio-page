@@ -69,11 +69,11 @@ li {
 /* anchor tag color */
 a {
     text-decoration: none;
-    color: rgb(19, 119, 241);
+    color: rgba(235, 65, 43, 0.947);
 }
 
 a:hover {
-    color: rgb(218, 89, 30);
+    color: rgb(28, 102, 162);
 }
 
 /* properties for footer section */
